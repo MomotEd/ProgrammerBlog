@@ -4010,12 +4010,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-top-right-radius: 0;
   border-top-left-radius: 0;
 }
-
+/*Momot E.P fixing navbar margin from 20 to 0*/
 .navbar {
   position: relative;
   z-index: 1000;
   min-height: 50px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   border: 1px solid transparent;
 }
 
